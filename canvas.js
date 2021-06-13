@@ -6,7 +6,7 @@ window.onload = function() {
     ctx.font = "30px Arial";
     ctx.strokeText("Enter", 50, 50);
     canvas.addEventListener('click', function() {
-        window.location.href = "http://localhost:8100/login"
+        window.location.href = "https://pabloluismolinablanes.github.io/RadioPlatformDeployed/"
     })
     var hamburger = document.getElementById("hamburger");
     var divs = document.getElementsByClassName("link");
